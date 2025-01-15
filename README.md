@@ -1,7 +1,5 @@
 # 🌟 Lumina Labs is pioneering the fusion of artificial intelligence (AI)
 
-![Lumina Labs Banner](assets/images/lumina-banner.png)
-
 ## 🚀 Overview
 
 Lumina Labs is revolutionizing the DeFi landscape by seamlessly integrating artificial intelligence with Solana's high-performance blockchain. Our platform provides developers and users with intelligent tools for automated trading, risk assessment, and portfolio optimization.
@@ -205,14 +203,6 @@ pytest tests/oracle/     # Oracle network tests
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact & Support
-
-- Website: [https://lumina-labs.io](https://lumina-labs.io)
-- Documentation: [docs.lumina-labs.io](https://docs.lumina-labs.io)
-- Discord: [Lumina Labs Community](https://discord.gg/luminalabs)
-- Twitter: [@LuminaLabs](https://twitter.com/LuminaLabs)
-- Email: support@lumina-labs.io
 
 ## 🙏 Acknowledgments
 
